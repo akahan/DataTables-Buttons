@@ -1,0 +1,20 @@
+{
+	"name": "akahan/DataTables-Buttons",
+	"version": "1.5.3",
+	"type": "library",
+	"description": "DataTables buttons extension.",
+	"homepage": "http://www.datatables.net/",
+	"author": "SpryMedia",
+	"license": [
+		"MIT"
+	],
+	"prefer-stable": true,
+	"require": {
+		"jquery": ">=1.7.0",
+		"datatables/datatables": ">=1.10.8"
+	},
+	"support": {
+		"forum": "https://datatables.net/forums",
+		"source": "https://github.com/DataTables/DataTablesSrc/"
+	}
+}
